@@ -1,0 +1,72 @@
+{
+  "siteId": "vitamin-abcde-sources-functions",
+  "generatedAt": "2026-06-05T17:43:40.296380",
+  "categories": [
+    "beginner-vitamin-abcde-sources-functions",
+    "advanced-vitamin-abcde-sources-functions",
+    "tips-vitamin-abcde-sources-functions",
+    "history-vitamin-abcde-sources-functions",
+    "trending-vitamin-abcde-sources-functions",
+    "tutorials-vitamin-abcde-sources-functions"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-vitamin-abcde-sources-functions",
+      "category_name": "Beginner Vitamin ABCDE Sources Functions"
+    },
+    {
+      "category_slug": "advanced-vitamin-abcde-sources-functions",
+      "category_name": "Advanced Vitamin ABCDE Sources Functions"
+    },
+    {
+      "category_slug": "tips-vitamin-abcde-sources-functions",
+      "category_name": "Vitamin ABCDE Sources Functions Tips"
+    },
+    {
+      "category_slug": "history-vitamin-abcde-sources-functions",
+      "category_name": "Vitamin ABCDE Sources Functions History"
+    },
+    {
+      "category_slug": "trending-vitamin-abcde-sources-functions",
+      "category_name": "Trending Vitamin ABCDE Sources Functions"
+    },
+    {
+      "category_slug": "tutorials-vitamin-abcde-sources-functions",
+      "category_name": "Vitamin ABCDE Sources Functions Tutorials"
+    }
+  ],
+  "articleCount": 108,
+  "design": {
+    "site_id": "vitamin-abcde-sources-functions",
+    "color_scheme": {
+      "name": "Midnight Teal",
+      "primary": "#0d9488",
+      "secondary": "#14b8a6",
+      "accent": "#5eead4",
+      "background": "#f0fdfa",
+      "text": "#134e4a",
+      "light": "#ccfbf1"
+    },
+    "font": {
+      "name": "Playfair Display",
+      "family": "'Playfair Display', serif",
+      "import": "@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Source+Sans+Pro:wght@400;600&display=swap');"
+    },
+    "layout": "minimal",
+    "border_radius": "8px",
+    "box_shadow": "0 20px 25px -5px rgba(0,0,0,0.1), 0 10px 10px -5px rgba(0,0,0,0.04)",
+    "article_card_style": "list",
+    "header_style": "classic",
+    "footer_style": "detailed",
+    "modules": [
+      "featured-section",
+      "trending-articles",
+      "newsletter-signup",
+      "about-widget",
+      "category-highlights",
+      "popular-tags"
+    ],
+    "site_title": "Vitamin ABCDE Sources Functions Central",
+    "articles_per_row": 3
+  }
+}
